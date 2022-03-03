@@ -1,0 +1,23 @@
+{
+  "name": "hasan",
+  "version": "1.0.0",
+  "description": "This is website for fictional Web Design Company, Hasan Web Design.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikidikay/hasan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikidikay/hasan/issues"
+  },
+  "homepage": "https://github.com/dikidikay/hasan#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
