@@ -1,0 +1,1 @@
+This is website for fictional Web Design Company, Hasan Web Design.
